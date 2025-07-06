@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional npm cache directory
+.npm/
+
+# Local env files
+.env
+.env.*.local
+
+# IDE/Editor settings
+.vscode/
+.idea/
+.DS_Store
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+
+# Mac system files
+.DS_Store
+
+# Coverage reports
+coverage/
+
+# Optional: Ignore build if not deploying via dist
+# If you're deploying using GitHub Pages workflow with ./dist, DO NOT uncomment this
+# dist/
+
+
