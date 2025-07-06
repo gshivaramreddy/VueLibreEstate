@@ -1,0 +1,21 @@
+{
+  "name": "vuelibreestate",
+  "version": "1.0.0",
+  "description": "A modern real estate app with map-based listings, user profiles, and premium features.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-vue": "^6.0.0",
+    "vue": "^3.5.17"
+  },
+  "devDependencies": {
+    "vite": "^7.0.2"
+  }
+}
